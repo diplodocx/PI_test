@@ -1,2 +1,2 @@
 # PI_test
-PI practice repo
+This is the repository for MIREA practice
